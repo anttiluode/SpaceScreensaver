@@ -1,2 +1,37 @@
-# SpaceScreensaver
-A weird screensaver that was born from my weird universal theories. 
+# Space Screensaver
+
+A Python-based space simulation screensaver that visualizes a tensor-based universe with live mode and adjustable parameters.
+
+## Installation
+
+Ensure you have Python 3.6 or later installed. Install the required libraries using `pip`:
+
+pip install numpy torch pygame scipy pillow matplotlib
+
+Run the application using Python:
+
+python space_screensaver.py
+
+# Features
+
+Live Mode: Runs the simulation indefinitely until paused or restarted.
+
+Adjustable Parameters: Customize universe size and number of singularities through the settings menu.
+
+Color Schemes: Choose from multiple color schemes for enhanced visualization.
+
+Full-Screen Mode: Toggle full-screen view by pressing the F key during simulation.
+
+Credits: View acknowledgments for contributors in the Credits section.
+
+Credits
+
+Antti Luode
+
+ChatGPT
+
+ClaudeAI
+
+# Licence
+
+MIT
