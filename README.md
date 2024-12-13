@@ -1,5 +1,8 @@
 # Space Screensaver
 
+[![Watch the video](https://img.youtube.com/vi/zb1H9wYFa_U/0.jpg)](https://www.youtube.com/watch?v=zb1H9wYFa_U)
+
+
 A Python-based space simulation screensaver that visualizes a tensor-based universe with live mode and adjustable parameters.
 
 ## Installation
